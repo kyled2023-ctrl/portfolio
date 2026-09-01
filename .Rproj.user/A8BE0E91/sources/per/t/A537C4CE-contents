@@ -7,3 +7,5 @@ https://kyled2023-ctrl.github.io/portfolio/.
 I fixed my about me section. I removed 2 skills that I am proficient in. 
 - Fixed the dates on my work experience.
 - Reorganized my internship description.
+- Reordered my skills.
+- Added what I want to do after college.
